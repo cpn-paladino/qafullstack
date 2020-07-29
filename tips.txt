@@ -1,0 +1,8 @@
+#visual code extensions
+- ruby-rubocop
+- Hyper Term Theme
+- Material Icon Theme
+- Prettier-Code formatter
+- Python
+- Ruby
+- VSCode Ruby
