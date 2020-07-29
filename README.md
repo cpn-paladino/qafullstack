@@ -1,2 +1,3 @@
 # qafullstack
-Códigos de estudos do curso QA Ninja
+
+Study code about the course QA NINJA - http://qaninja.io/
